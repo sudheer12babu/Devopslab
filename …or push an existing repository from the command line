@@ -1,1 +1,4 @@
 
+git remote add origin git@github.com:sudheer12babu/push-a-file-into-github-using-commands.git
+git branch -M main
+git push -u origin main
