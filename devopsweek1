@@ -1,0 +1,37 @@
+What is DevOps?
+If you want to build better software faster, DevOps is the answer. Here’s how this software development methodology brings everyone to the table to create secure code quickly.
+
+
+
+
+  1. Shorter Development Cycles, Faster Innovation
+When development and operations teams are in separate silos, it’s usually difficult to tell if an application is ready for operations. When development teams simply turn over an application, the operations’ cycle times are extended needlessly.
+
+With a combined development and operations team, applications are ready for use much more quickly. This is important, since companies succeed based on their ability to innovate faster than their competitors do. In fact, Kevin Murphy from Red Hat estimates that shorter development cycles translate to bringing an application to market 60 percent faster than with traditional approaches.
+
+2. Reduced Deployment Failures, Rollbacks, and Time to Recover
+Part of the reason teams experience deployment failures is due to programming defects. The shorter development cycles with DevOps promote more frequent code releases. This, in turn, makes it easier to spot code defects. Therefore, teams can reduce the number of deployment failures using agile programming principles that call for collaboration and modular programming. Rollbacks are similarly easier to manage because, when necessary, only some modules are affected.
+
+Time to recover is an important issue, because some failure has to be expected. But recovery is much faster when the development and operations teams have been working together, exchanging ideas and accounting for both teams’ challenges during development.
+
+3. Improved Communication and Collaboration
+DevOps improves the software development culture. Combined teams are happier and more productive. The culture becomes focused on performance rather than individual goals. When the teams trust each other, they can experiment and innovate more effectively. The teams can focus on getting the product to market or into production, and their KPIs should be structured accordingly.
+
+It’s no longer a matter of “turning over” the application to operations and waiting to see what happens. Operations doesn’t need to wait for a different team to troubleshoot and fix a problem. The process becomes increasingly seamless as all individuals work toward a common goal.
+
+4. Increased Efficiencies
+Increased efficiency helps to speed the development process and make it less prone to error. There are ways to automate DevOps tasks. Continuous integration servers automate the process of testing code, reducing the amount of manual work required. This means that software engineers can focus on completing tasks that can’t be automated.
+
+Acceleration tools are another opportunity for increasing efficiency. For example:
+
+Scalable infrastructures, such as cloud-based platforms, increase the access the team has to hardware resources. As a result, testing and deployment operations speed up.
+Build acceleration tools can be used to compile code more quickly.
+Parallel workflows can be embedded into the continuous delivery chain to avoid delays; one team waits for another to complete its work.
+Using one environment avoids the useless task of transferring data between environments. This means you don’t have to use one environment for development, a different environment for testing, and a third for deployment.
+5. Reduced Costs and IT Headcount
+All of the DevOps benefits translate to reduced overall costs and IT headcount requirements. According to Kevin Murphy from Red Hat, DevOps development teams require 35 percent less IT staff and 30 percent lower IT costs.
+
+Final Thoughts
+The industry has spoken, and it’s implementing DevOps at a rapid rate. Organizations are eager to take advantage of faster application delivery, enhanced innovation, more stable operating environments, and performance-focused employee teams.
+
+When you want to make DevOps work for your organization, you need a partner who can help you realize the benefits. Our team of open-source DevOps experts can help you speed up application development and give you greater visibility and control across your applications, servers, and services.
